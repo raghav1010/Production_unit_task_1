@@ -12,4 +12,7 @@ Feautures :
     6. Python script to design an approach to import given CSV data into the newly created database.
     7. Pagination on results in applied
     8. API testing document done with the help of Postman . The link has been provided. 
-  
+    9. The application has been deployed using Heroku
+    
+ Improvements :
+  1. Creating a docker container for the application

@@ -29,3 +29,6 @@ Some sample api links with queries:
  
  Important Note :
  Please enter the query fields (eg. Customer_Age , Education_Level , Marital_Status) as mentioned in the original csv data file , query fields like "age", "education" , "marital" are invalid and errors are handled carefully in the api service . 
+
+
+#python #rest-api #flask #heroku #customer-churn-data #rest-principles #postman #testing

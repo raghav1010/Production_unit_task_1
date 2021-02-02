@@ -17,7 +17,7 @@ api.add_resource(Customer, '/customers')
 admin =Admin(app)
 
 if __name__ == '__main__':
-    from flask_sqlalchemy import SQLAlchemy
+    
 
     db=SQLAlchemy()
     db.init_app(app)

@@ -20,3 +20,10 @@ Feautures :
 
 postman_lin - contains the link to view my api testing result documentation for various endpoints.
 Please go to the link which gives a html snippet , import that to your postman workplace and check the results of the different query based api calls on which i have tested my rest api
+
+Some sample api links with queries:
+ 1. https://credit-card-churn-restapi.herokuapp.com/customers?Customer_Age=28&Card_Category=Blue&Gender=M 
+ 2. https://credit-card-churn-restapi.herokuapp.com/customers?Education_Level=High%20School 
+ 3. https://credit-card-churn-restapi.herokuapp.com/customers?Education_Level=High%20School&Marital_Status=Married 
+ 
+ 

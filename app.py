@@ -5,7 +5,7 @@ from models.customers import CustomerModel
 from flask_admin import Admin
 from flask_admin.contrib.sqla import ModelView
 
-
+from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 
 app.config['SQLALCHEMY_DATABASE_URI']='sqlite:///data.db'

@@ -16,3 +16,7 @@ Feautures :
     
  Improvements :
   1. Creating a docker container for the application
+
+
+postman_lin - contains the link to view my api testing result documentation for various endpoints.
+Please go to the link which gives a html snippet , import that to your postman workplace and check the results of the different query based api calls on which i have tested my rest api

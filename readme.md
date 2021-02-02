@@ -25,6 +25,7 @@ Some sample api links with queries:
  1. https://credit-card-churn-restapi.herokuapp.com/customers?Customer_Age=28&Card_Category=Blue&Gender=M 
  2. https://credit-card-churn-restapi.herokuapp.com/customers?Education_Level=High%20School 
  3. https://credit-card-churn-restapi.herokuapp.com/customers?Education_Level=High%20School&Marital_Status=Married 
+ 4. https://credit-card-churn-restapi.herokuapp.com/admin/ - Admin Dashboard (Flask)
  
  Important Note :
  Please enter the query fields (eg. Customer_Age , Education_Level , Marital_Status) as mentioned in the original csv data file , query fields like "age", "education" , "marital" are invalid and errors are handled carefully in the api service . 
